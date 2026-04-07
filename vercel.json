@@ -13,8 +13,6 @@
     }
   ],
   "env": {
-    "MONGO_URI": "@mongo_uri",
-    "NODE_ENV": "production",
-    "PORT": "3000"
+    "NODE_ENV": "production"
   }
 }
